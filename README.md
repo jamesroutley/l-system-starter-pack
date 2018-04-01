@@ -4,6 +4,14 @@
 2. Open `index.html` in a web browser
 3. Edit `sketch.js`
 
+## Steps
+
+1. Define the drawing functions
+2. Write an interpreter which takes a string (e.g. `F[+F]F[-F]`) and draws it
+3. Implement a function which applies a rule to a pattern (e.g. `F` -> `F[+F]F[-F]`)
+4. Write code which applys the rule 5 times
+5. Draw the final pattern
+
 ## Resources
 
 - [My L-System Implementation](https://routley.io/l-system/index.html)

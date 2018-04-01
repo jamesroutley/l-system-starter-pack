@@ -6,7 +6,7 @@
 
 ## Steps
 
-1. Define the drawing functions
+1. Define the drawing functions (Look in [The Nature of Code](http://natureofcode.com/book/chapter-8-fractals/#86-l-systems) for a hint)
 2. Write an interpreter which takes a string (e.g. `F[+F]F[-F]`) and draws it
 3. Implement a function which applies a rule to a pattern (e.g. `F` -> `F[+F]F[-F]`)
 4. Write code which applys the rule 5 times
